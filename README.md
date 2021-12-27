@@ -14,8 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pararell&show_icons=true&locale=en&layout=compact" alt="pararell" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pararell&show_icons=true&locale=en" alt="pararell" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pararell&label=Profile%20views&color=0e75b6&style=flat" alt="pararell" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
