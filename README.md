@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm pararell</h1>
-<h3 align="center">Frontend developer with some BE skills</h3>
+<h3 align="center">Frontend developer with some backend skills</h3>
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=pararell&label=Profile%20views&color=0e75b6&style=flat)
